@@ -1,0 +1,10 @@
+AANYA'S LITTLE WORLD — GITHUB PAGES
+
+1. Keep this whole folder structure exactly as it is.
+2. Add the six approved comic PNG files to assets/comics/ using the filenames in that folder's README.txt.
+3. Upload/replace the files in your existing GitHub repository.
+4. Commit the changes.
+5. GitHub Pages will serve index.html automatically if Pages is enabled for the repository/branch.
+
+The site is responsive for desktop and mobile.
+The comic index is HTML, so future chapter titles can be edited without regenerating an image.
