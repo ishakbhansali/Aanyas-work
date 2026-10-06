@@ -34,7 +34,7 @@ const bindings=[
 ['label[for="search"]','Find a page','Hitta en sida'],
 ['.book > .eyebrow','A book to keep','En bok att spara'],
 ['.book > h2',"Aanya's Knowledge Book",'Aanyas kunskapsbok'],
-['.book > p:not(.book-count)','My discoveries in a book with soft pastel colours. It combines coloured notebook pages with my gently brightened original weekend page. The handwritten book stays in Swedish. English translations of the readable texts are available on this website.','Mina upptäckter samlade i en bok med mjuka pastellfärger. Boken kombinerar färglagda anteckningssidor med min varsamt ljusade originalsida om helgen. Anteckningssidorna och boken är på svenska.'],
+['.book > p:not(.book-count)','My discoveries in a book with soft pastel colours and brighter, lightly coloured notebook pages. The handwritten book stays in Swedish. Original photographs and English translations of the readable texts are available on this website.','Mina upptäckter samlade i en bok med mjuka pastellfärger och ljusare, varsamt färglagda anteckningssidor. Anteckningssidorna och boken är på svenska. Originalfotografier finns på webbplatsen.'],
 ['.pdf-options .pill','Read my book ↗','Läs min bok ↗'],
 ['.pdf-options .secondary','Download my book ↓','Ladda ner min bok ↓'],
 ['.comic-kicker','✦ COMIC DIARY ✦','✦ SERIEDAGBOK ✦'],

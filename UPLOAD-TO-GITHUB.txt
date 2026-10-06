@@ -15,7 +15,7 @@ Do not upload the previous Language-Photos Update as well. This replaces it.
 6. Commit changes, wait for GitHub Pages deployment, then refresh.
 
 DO NOT DELETE ANYTHING. Keep CNAME and the existing custom domain / DNS settings.
-The update replaces the PDF to correct Min helg using the actual handwritten photo. Other book pages and comic pictures are unchanged.
+The update replaces the PDF to use the approved brighter, lightly coloured Min helg page. Min originalsida retains the original photo. Other book pages and comic pictures are unchanged.
 
 Check on your phone:
 - Home, Knowledge World, Comics and About Aanya open as separate pages.
