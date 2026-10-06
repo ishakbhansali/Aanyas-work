@@ -1,10 +1,29 @@
-AANYA'S LITTLE WORLD — GITHUB PAGES
+AANYA'S LITTLE WORLD: ALL-IN-ONE PAGE + LANGUAGE + PHOTO UPDATE
 
-1. Keep this whole folder structure exactly as it is.
-2. Add the six approved comic PNG files to assets/comics/ using the filenames in that folder's README.txt.
-3. Upload/replace the files in your existing GitHub repository.
-4. Commit the changes.
-5. GitHub Pages will serve index.html automatically if Pages is enabled for the repository/branch.
+Use Aanyas-Complete-Update.zip for the existing website.
+The complete Aanyas-Little-World-FINAL.zip is a full backup and can also be uploaded.
+This includes ALL previous unuploaded changes plus the new separate pages.
+Do not upload the previous Language-Photos Update as well. This replaces it.
 
-The site is responsive for desktop and mobile.
-The comic index is HTML, so future chapter titles can be edited without regenerating an image.
+1. Unzip your selected package on your Mac.
+2. Open the EXISTING GitHub repository that serves aanyaslittleworld.se.
+3. Select Add file > Upload files.
+4. Drag EVERYTHING INSIDE the unzipped folder into the upload area.
+   Include the whole assets folder. Do not open assets and select only its pictures.
+5. Check that picture paths start with assets/, for example assets/page-2188.jpg.
+   index.html, knowledge.html, comics.html, about.html and the code files must be at repository root.
+6. Commit changes, wait for GitHub Pages deployment, then refresh.
+
+DO NOT DELETE ANYTHING. Keep CNAME and the existing custom domain / DNS settings.
+The update does not replace the comic pictures or the PDF.
+
+Check on your phone:
+- Home, Knowledge World, Comics and About Aanya open as separate pages.
+- English and Svenska buttons appear at the top, alongside the Menu.
+- Both language modes translate the menus, About Aanya and all 16 knowledge topics.
+- Only Svenska mode shows Swedish text below the seven English comic pages.
+- About Aanya thanks her teacher in both languages.
+- Min originalsida / My original page shows the cropped, gently brightened photos.
+- Read / Download book still opens the same Swedish coloured notebook.
+
+Future updates: keep the same repository and Aanyas-kunskapsbok.pdf filename.

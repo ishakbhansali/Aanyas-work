@@ -1,5 +1,15 @@
 {
   "id": 3000,
+  "en": {
+    "title": "My new topic",
+    "intro": "A short sentence in my own voice.",
+    "facts": ["My first sentence from the notebook."],
+    "imagination": {
+      "title": "My imagination",
+      "intro": "This is my imagination, not a fact.",
+      "items": [{"year": "In the future", "text": "My own idea about the future."}]
+    }
+  },
   "title": "Mitt nya ämne",
   "category": "Natur",
   "intro": "En kort mening med min egen röst.",

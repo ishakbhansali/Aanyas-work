@@ -1,6 +1,7 @@
 [
   {
     "id": 2188,
+    "en": {"title":"The white-tailed eagle","intro":"Big wings over forests and water.","facts":["The white-tailed eagle is Sweden’s largest bird of prey.","The female is larger than the male.","Its wingspan is 2–2.5 metres.","It eats fish, birds, rabbits and other mammals.","It builds nests in sturdy pine trees.","It starts laying eggs in February."]},
     "title": "Havsörnen",
     "category": "Natur",
     "intro": "Stora vingar över skog och vatten.",
@@ -19,6 +20,7 @@
   },
   {
     "id": 2189,
+    "en": {"title":"AI","intro":"A smart technology and an important tip.","facts":["AI is a smart technology that can help us with many things.","For example, AI can answer our questions.","We must be careful not to share private information.","It is important to remember that AI is a tool to help people."],"imagination":{"title":"My ideas about the future","intro":"These are my imagined ideas about the future, not facts or certain predictions.","items":[{"year":"2045","text":"I imagine AI with feelings."},{"year":"2050","text":"I imagine AI that looks like a human."}]}},
     "title": "AI",
     "category": "Upptäckter",
     "intro": "En smart teknik och ett viktigt råd.",
@@ -49,6 +51,7 @@
   },
   {
     "id": 2190,
+    "en": {"title":"Coniferous and deciduous forests","intro":"Two kinds of forest, full of life.","facts":["Coniferous forests have trees such as spruce and pine.","They do not lose their needles in winter.","You can find bilberries, lingonberry plants and many animals there.","Deciduous forests have trees such as birch, oak and maple.","The trees have leaves that change colour.","There are many tiny creatures in deciduous forests.","One similarity is that both forests have many animals.","One difference is that the trees are different."]},
     "title": "Barrskog och lövskog",
     "category": "Natur",
     "intro": "Två sorters skog, fulla av liv.",
@@ -69,6 +72,7 @@
   },
   {
     "id": 2218,
+    "en": {"title":"The Great Wall of China","intro":"A long wall and a big job done together.","facts":["The Great Wall of China is one of the world’s longest walls.","It was built to protect China from enemies.","The wall was built over two thousand years ago.","Many people worked together to build the wall."]},
     "title": "Kinesiska muren",
     "category": "Platser",
     "intro": "En lång mur och ett stort arbete tillsammans.",
@@ -85,6 +89,7 @@
   },
   {
     "id": 2219,
+    "en": {"title":"My weekend","intro":"A little story from the weekend.","facts":["I watched TV.","I used the computer."],"note":"A short excerpt. The rest is on the handwritten page."},
     "title": "Min helg",
     "category": "Min vardag",
     "intro": "En liten berättelse från helgen.",
@@ -100,6 +105,7 @@
   },
   {
     "id": 2220,
+    "en": {"title":"Christmas","intro":"Presents, family and Santa with his sleigh.","facts":["Christmas is a holiday.","In Sweden, Christmas is celebrated on 24–26 December.","Santa Claus lives at the North Pole.","Santa comes in the evening and gives out presents.","He usually has eight or nine reindeer pulling his sleigh.","Many families gather and eat together.","Christmas is celebrated in many countries around the world."],"note":"Santa and the reindeer are part of Christmas stories."},
     "title": "Jul",
     "category": "Min vardag",
     "intro": "Julklappar, familj och en tomte med släde.",
@@ -120,6 +126,7 @@
   },
   {
     "id": 2221,
+    "en": {"title":"LEGO","intro":"Little pieces that can become big ideas.","facts":["LEGO is a toy you can build with.","The pieces are small and colourful.","You can put the pieces together.","You can build houses, cars and animals.","The pieces fit together like a puzzle.","My text says that LEGO started in Denmark in 1949.","LEGO is also a company that makes toys.","Many children play with LEGO."]},
     "title": "LEGO",
     "category": "Min vardag",
     "intro": "Små bitar som kan bli stora idéer.",
@@ -140,6 +147,7 @@
   },
   {
     "id": 2222,
+    "en": {"title":"Mother’s Day","intro":"A drawing, a flower and lots of love.","facts":["On Mother’s Day, we celebrate Mum.","I make a lovely drawing for Mum.","We celebrate Mum so she can rest.","Mum is happy on Mother’s Day.","We do something fun together.","I love my mum very much.","My mum makes tasty food.","Mum and I are best friends.","I give Mum a flower.","My mum is kind and caring."]},
     "title": "Mors dag",
     "category": "Min vardag",
     "intro": "En teckning, en blomma och mycket kärlek.",
@@ -162,6 +170,7 @@
   },
   {
     "id": 2224,
+    "en": {"title":"Burj Khalifa","intro":"A building that reaches high into the sky.","facts":["Burj Khalifa is 828 metres tall.","It has 163 floors.","Construction started in 2004 and finished in 2010.","The lift can travel at about 10 metres per second.","There are over 50 lifts in the building.","My text says that the tower weighs about 500,000 tonnes.","There are more than 1,000 apartments in the building."]},
     "title": "Burj Khalifa",
     "category": "Platser",
     "intro": "En byggnad som sträcker sig högt upp mot himlen.",
@@ -181,6 +190,7 @@
   },
   {
     "id": 2225,
+    "en": {"title":"The blue whale","intro":"A big friend in the big blue sea.","facts":["The blue whale is the largest animal that has ever lived on Earth.","It lives in the world’s oceans.","The blue whale can grow to over 30 metres long.","It can weigh as much as many elephants.","The blue whale eats almost only krill.","Every day, it can eat several tonnes of food.","It breathes air and must come up to the surface.","It swims long distances."]},
     "title": "Blåvalen",
     "category": "Natur",
     "intro": "En stor vän i det stora blå.",
@@ -201,6 +211,7 @@
   },
   {
     "id": 2226,
+    "en": {"title":"Ice cream","intro":"Cold, sweet and full of colour.","facts":["Ice cream is cold and tasty.","Ice cream is sweet and soft.","We eat ice cream in summer and at parties.","Ice cream can melt and become sticky.","There is chocolate ice cream and vanilla ice cream.","You can put sprinkles and sauce on ice cream.","Ice cream can be made from milk and sugar.","Ice cream is fun and tasty to eat."]},
     "title": "Glass",
     "category": "Min vardag",
     "intro": "Kall, söt och full av färg.",
@@ -221,6 +232,7 @@
   },
   {
     "id": 2227,
+    "en": {"title":"My other weekend","intro":"Swimming lessons, a film and a big craft project.","facts":["On Saturday, I went to my swimming lesson.","In the afternoon, I watched a film.","In the evening, I went to the park with my friends.","On Sunday, I made a big craft project.","I watched a series about True.","I went to a mandir.","Then I ate a sandwich and rested."],"note":"A selection from Aanya’s weekend story."},
     "title": "Min andra helg",
     "category": "Min vardag",
     "intro": "Simskola, en film och ett stort pyssel.",
@@ -241,6 +253,7 @@
   },
   {
     "id": 2228,
+    "en": {"title":"Water","intro":"A little drop with lots to tell.","facts":["Water is important for life.","Water has three forms.","Water has a cycle.","We should take care of water.","We use a lot of water.","The water in the sea can be cold.","Water can become ice.","Water can become steam."]},
     "title": "Vatten",
     "category": "Natur",
     "intro": "En liten droppe med mycket att berätta.",
@@ -261,6 +274,7 @@
   },
   {
     "id": 2229,
+    "en": {"title":"Yeti","intro":"A hairy creature in the high mountains.","facts":["Yeti is a mythical animal.","In stories, Yeti lives in high mountains.","Yeti is described as big and hairy, white or brown.","Nobody knows for sure whether Yeti really exists.","Some people say they have seen tracks in the snow.","Others think it is a story."]},
     "title": "Yeti",
     "category": "Sagor",
     "intro": "En hårig figur bland de höga bergen.",
@@ -279,6 +293,7 @@
   },
   {
     "id": 2230,
+    "en": {"title":"Submarines","intro":"A boat that can disappear beneath the surface.","facts":["A submarine is a boat that can travel under the surface.","A submarine can also travel on the surface.","People work inside a submarine.","Submarines have an engine that makes them move forward.","A submarine can have a periscope to look outside.","Some submarines are used by the military."]},
     "title": "Ubåtar",
     "category": "Upptäckter",
     "intro": "En båt som kan försvinna under ytan.",
@@ -297,6 +312,7 @@
   },
   {
     "id": 2231,
+    "en": {"title":"The moose","intro":"The king of the forest, with big antlers and a soft muzzle.","facts":["The moose is called the king of the forest.","My text says that a moose weighs 200–300 kilos.","A moose is 2–3 metres long.","A moose can live to be 20 years old.","Moose eat grass, leaves, bark and buds.","A moose can poo 14–17 times a day!"]},
     "title": "Älgen",
     "category": "Natur",
     "intro": "Skogens konung, med stora horn och en mjuk mule.",

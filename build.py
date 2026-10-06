@@ -1,28 +1,28 @@
-"""One command rebuilds the PDF, self-contained preview and hosting ZIP."""
+"""Rebuild the stable Swedish PDF and package all four website pages."""
 from pathlib import Path
-import base64,json,zipfile
+import json,zipfile,argparse
 from generate_pdf import build_pdf
 ROOT=Path(__file__).resolve().parent
 
 def main():
+ parser=argparse.ArgumentParser()
+ parser.add_argument('--keep-pdf',action='store_true',help='Keep the current coloured book for website-only updates')
+ args=parser.parse_args()
  topics=json.loads((ROOT/'content.json').read_text())
  assert len({t['id'] for t in topics})==len(topics),'Topic IDs must be unique'
+ for name in ('index.html','knowledge.html','comics.html','about.html','i18n.js','app.js','styles.css','language.css'):
+  assert (ROOT/name).is_file(),f'Missing {name}'
  for t in topics:
-  for k in ('src','original','notebook'):
-   if t.get(k):assert (ROOT/t[k]).is_file(),f'Missing {t[k]}'
- build_pdf()
- page=(ROOT/'index.html').read_text();page=page.replace('<link rel="stylesheet" href="styles.css">','<style>'+(ROOT/'styles.css').read_text()+'</style>')
- page=page.replace('<script src="app.js"></script>','<script>window.AANYA_CONTENT='+json.dumps(topics,ensure_ascii=False).replace('</','<\\/')+';</script><script>'+(ROOT/'app.js').read_text()+'</script>')
- paths={t[k] for t in topics for k in ('src','original','notebook') if t.get(k)}
- for name in sorted(paths,key=len,reverse=True):
-  encoded='data:image/jpeg;base64,'+base64.b64encode((ROOT/name).read_bytes()).decode();page=page.replace(name,encoded)
- pdf_b64=base64.b64encode((ROOT/'Aanyas-kunskapsbok.pdf').read_bytes()).decode()
- page=page.replace('<script>window.AANYA_CONTENT=', '<script>window.AANYA_PDF="'+pdf_b64+'";window.AANYA_CONTENT=')
- standalone=ROOT.parent/'Aanyas-Notebook.html';standalone.write_text(page)
- include={'index.html','styles.css','app.js','content.json','Aanyas-kunskapsbok.pdf','build.py','generate_pdf.py','requirements.txt','README.md','.nojekyll','topic-template.json'}
- archive=ROOT.parent/'Aanyas-Notebook-Website.zip'
+  assert t.get('en'),f'Missing English translation for {t["id"]}'
+  assert len(t['facts'])==len(t['en']['facts']),f'Incomplete English facts for {t["id"]}'
+  for key in ('src','original','notebook'):
+   if t.get(key):assert (ROOT/t[key]).is_file(),f'Missing {t[key]}'
+ if not args.keep_pdf:build_pdf()
+ out=ROOT.parent/'output';out.mkdir(exist_ok=True)
+ archive=out/'Aanyas-Little-World-FINAL.zip'
  with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
-  for name in sorted(include):z.write(ROOT/name,name)
-  for name in sorted(paths):z.write(ROOT/name,name)
- print('Built:',standalone,archive,'from',len(topics),'shared topics')
+  for path in sorted(ROOT.rglob('*')):
+   if path.is_file() and '__pycache__' not in path.parts:z.write(path,path.relative_to(ROOT).as_posix())
+ print('Built:',archive,'with four website pages and',len(topics),'shared knowledge topics')
+ print('Preview locally: python -m http.server 8000, then open http://localhost:8000')
 if __name__=='__main__':main()
