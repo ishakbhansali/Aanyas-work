@@ -89,19 +89,25 @@
   },
   {
     "id": 2219,
-    "en": {"title":"My weekend","intro":"A little story from the weekend.","facts":["I watched TV.","I used the computer."],"note":"A short excerpt. The rest is on the handwritten page."},
+    "en": {"title":"My weekend","intro":"Swimming lessons, computer fun and spa time with Mum.","facts":["On Saturday morning, I went to my swimming lesson.","At 14:10, I watched TV at home.","On Saturday evening, I went down to the park on my own.","On Sunday, I played on the computer a lot.","I wrote a Mother’s Day text on the computer.","Then I printed it out.","Mum and I had spa time together before I went to bed.","In the evening, I went to bed."],"note":"Based on my handwritten weekend story, with the wording lightly tidied."},
     "title": "Min helg",
     "category": "Min vardag",
-    "intro": "En liten berättelse från helgen.",
+    "intro": "Simskola, datorkul och spa med mamma.",
     "facts": [
-      "Jag kollade på TV.",
-      "Jag använde datorn."
+      "På lördagsmorgonen gick jag till simskolan.",
+      "Klockan 14.10 tittade jag på TV hemma.",
+      "På lördagskvällen gick jag ner till parken själv.",
+      "På söndagen lekte jag mycket på datorn.",
+      "Jag skrev en text till mors dag på datorn.",
+      "Sedan skrev jag ut den.",
+      "Mamma och jag hade spa tillsammans innan jag gick och lade mig.",
+      "På kvällen gick jag och lade mig."
     ],
-    "note": "Ett kort utdrag. Resten finns i den handskrivna sidan.",
+    "note": "Utifrån min handskrivna helgberättelse, med språket varsamt putsat.",
     "src": "assets/sketch-2219.jpg",
     "original": "assets/page-2219.jpg",
     "number": 5,
-    "notebook": "assets/restored-2219.jpg"
+    "notebook": "assets/page-2219.jpg"
   },
   {
     "id": 2220,

@@ -15,14 +15,14 @@ Do not upload the previous Language-Photos Update as well. This replaces it.
 6. Commit changes, wait for GitHub Pages deployment, then refresh.
 
 DO NOT DELETE ANYTHING. Keep CNAME and the existing custom domain / DNS settings.
-The update does not replace the comic pictures or the PDF.
+The update replaces the PDF to correct Min helg using the actual handwritten photo. Other book pages and comic pictures are unchanged.
 
 Check on your phone:
 - Home, Knowledge World, Comics and About Aanya open as separate pages.
 - English and Svenska buttons appear at the top, alongside the Menu.
 - Both language modes translate the menus, About Aanya and all 16 knowledge topics.
 - Only Svenska mode shows Swedish text below the seven English comic pages.
-- About Aanya thanks her teacher in both languages.
+- About Aanya thanks her teachers in both languages.
 - Min originalsida / My original page shows the cropped, gently brightened photos.
 - Read / Download book still opens the same Swedish coloured notebook.
 
