@@ -4,8 +4,8 @@
       "id": "culture",
       "en": "Culture & traditions",
       "sv": "Kultur och traditioner",
-      "description_en": "Colourful celebrations, cultural motifs and artwork inspired by Indian traditions, including a drawing about Jain culture and religion.",
-      "description_sv": "Färgstarka firanden, kulturella motiv och bilder inspirerade av indiska traditioner, inklusive en teckning om jainistisk kultur och religion."
+      "description_en": "Celebrations, cultural motifs and artwork inspired by Indian traditions, including Lord Ganesha, Jain culture and religion, and folk-art-style figures.",
+      "description_sv": "Firanden, kulturella motiv och bilder inspirerade av indiska traditioner, med bland annat guden Ganesha, jainistisk kultur och religion samt figurer i folkkonststil."
     },
     {
       "id": "landscapes",
@@ -58,7 +58,8 @@
       "sv": "Regnbåge och blommor",
       "image": "assets/gallery/nature/2296.jpg",
       "thumb": "assets/gallery/nature/2296-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2297,
@@ -67,7 +68,8 @@
       "sv": "Räknemotiv under vatten",
       "image": "assets/gallery/nature/2297.jpg",
       "thumb": "assets/gallery/nature/2297-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2298,
@@ -76,7 +78,8 @@
       "sv": "Glasskompisar",
       "image": "assets/gallery/characters/2298.jpg",
       "thumb": "assets/gallery/characters/2298-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2299,
@@ -85,7 +88,8 @@
       "sv": "En flicka bland träd",
       "image": "assets/gallery/characters/2299.jpg",
       "thumb": "assets/gallery/characters/2299-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2300,
@@ -94,7 +98,8 @@
       "sv": "Två havsvyer",
       "image": "assets/gallery/landscapes/2300.jpg",
       "thumb": "assets/gallery/landscapes/2300-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2301,
@@ -103,7 +108,8 @@
       "sv": "Sjöjungfruskiss i färg",
       "image": "assets/gallery/characters/2301.jpg",
       "thumb": "assets/gallery/characters/2301-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2302,
@@ -112,7 +118,8 @@
       "sv": "Regnbågsglass",
       "image": "assets/gallery/characters/2302.jpg",
       "thumb": "assets/gallery/characters/2302-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2303,
@@ -121,7 +128,8 @@
       "sv": "Figurer i en blå ram",
       "image": "assets/gallery/characters/2303.jpg",
       "thumb": "assets/gallery/characters/2303-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2304,
@@ -130,7 +138,8 @@
       "sv": "Rosa slott",
       "image": "assets/gallery/landscapes/2304.jpg",
       "thumb": "assets/gallery/landscapes/2304-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2305,
@@ -139,7 +148,8 @@
       "sv": "Solros",
       "image": "assets/gallery/nature/2305.jpg",
       "thumb": "assets/gallery/nature/2305-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2306,
@@ -148,7 +158,8 @@
       "sv": "Prickig klädsel",
       "image": "assets/gallery/characters/2306.jpg",
       "thumb": "assets/gallery/characters/2306-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2307,
@@ -157,7 +168,8 @@
       "sv": "Prinsessa och en bevingad vän",
       "image": "assets/gallery/characters/2307.jpg",
       "thumb": "assets/gallery/characters/2307-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2308,
@@ -166,7 +178,8 @@
       "sv": "Regnbågsklänning",
       "image": "assets/gallery/characters/2308.jpg",
       "thumb": "assets/gallery/characters/2308-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2309,
@@ -175,7 +188,8 @@
       "sv": "Högt gräs och en blomma",
       "image": "assets/gallery/nature/2309.jpg",
       "thumb": "assets/gallery/nature/2309-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2310,
@@ -184,7 +198,8 @@
       "sv": "Enhörningsmunk",
       "image": "assets/gallery/characters/2310.jpg",
       "thumb": "assets/gallery/characters/2310-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2311,
@@ -193,7 +208,8 @@
       "sv": "Hus vid vattnet",
       "image": "assets/gallery/landscapes/2311.jpg",
       "thumb": "assets/gallery/landscapes/2311-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2312,
@@ -202,7 +218,8 @@
       "sv": "Blommor i en mönstrad vas",
       "image": "assets/gallery/nature/2312.jpg",
       "thumb": "assets/gallery/nature/2312-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2313,
@@ -211,7 +228,8 @@
       "sv": "Simbassäng",
       "image": "assets/gallery/landscapes/2313.jpg",
       "thumb": "assets/gallery/landscapes/2313-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2314,
@@ -220,7 +238,8 @@
       "sv": "En hälsning till mamma",
       "image": "assets/gallery/cards/2314.jpg",
       "thumb": "assets/gallery/cards/2314-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2315,
@@ -229,7 +248,8 @@
       "sv": "Amsterdamcykel",
       "image": "assets/gallery/sketches/2315.jpg",
       "thumb": "assets/gallery/sketches/2315-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2316,
@@ -238,7 +258,8 @@
       "sv": "Färgglad gata",
       "image": "assets/gallery/landscapes/2316.jpg",
       "thumb": "assets/gallery/landscapes/2316-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2317,
@@ -247,7 +268,8 @@
       "sv": "Figur med rosa hår",
       "image": "assets/gallery/characters/2317.jpg",
       "thumb": "assets/gallery/characters/2317-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2318,
@@ -256,7 +278,8 @@
       "sv": "Färgglada blommor",
       "image": "assets/gallery/nature/2318.jpg",
       "thumb": "assets/gallery/nature/2318-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2319,
@@ -265,7 +288,8 @@
       "sv": "Gatlyktor i solnedgång",
       "image": "assets/gallery/landscapes/2319.jpg",
       "thumb": "assets/gallery/landscapes/2319-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2320,
@@ -274,7 +298,8 @@
       "sv": "Vattenmelonkatten",
       "image": "assets/gallery/characters/2320.jpg",
       "thumb": "assets/gallery/characters/2320-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2321,
@@ -283,7 +308,8 @@
       "sv": "Tivolimotiv i blyerts",
       "image": "assets/gallery/sketches/2321.jpg",
       "thumb": "assets/gallery/sketches/2321-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2322,
@@ -292,7 +318,8 @@
       "sv": "Blommor och en gul vas",
       "image": "assets/gallery/nature/2322.jpg",
       "thumb": "assets/gallery/nature/2322-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2323,
@@ -301,7 +328,8 @@
       "sv": "Porträtt i färg",
       "image": "assets/gallery/characters/2323.jpg",
       "thumb": "assets/gallery/characters/2323-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2324,
@@ -310,7 +338,8 @@
       "sv": "Rymdmotiv",
       "image": "assets/gallery/landscapes/2324.jpg",
       "thumb": "assets/gallery/landscapes/2324-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2325,
@@ -319,7 +348,8 @@
       "sv": "Figur i en färgglad klänning",
       "image": "assets/gallery/characters/2325.jpg",
       "thumb": "assets/gallery/characters/2325-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2326,
@@ -328,7 +358,8 @@
       "sv": "Flicka i en hjärtmönstrad klänning",
       "image": "assets/gallery/sketches/2326.jpg",
       "thumb": "assets/gallery/sketches/2326-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2327,
@@ -337,7 +368,8 @@
       "sv": "Jordgubbsfigur",
       "image": "assets/gallery/characters/2327.jpg",
       "thumb": "assets/gallery/characters/2327-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2328,
@@ -346,7 +378,8 @@
       "sv": "Regnbågsträdgård",
       "image": "assets/gallery/nature/2328.jpg",
       "thumb": "assets/gallery/nature/2328-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2329,
@@ -355,7 +388,8 @@
       "sv": "Segelbåt",
       "image": "assets/gallery/landscapes/2329.jpg",
       "thumb": "assets/gallery/landscapes/2329-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2330,
@@ -364,7 +398,8 @@
       "sv": "Färgglad fjärilsdesign",
       "image": "assets/gallery/design/2330.jpg",
       "thumb": "assets/gallery/design/2330-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2331,
@@ -373,7 +408,8 @@
       "sv": "Solsken till mamma",
       "image": "assets/gallery/cards/2331.jpg",
       "thumb": "assets/gallery/cards/2331-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2332,
@@ -382,7 +418,8 @@
       "sv": "Fyra färgglada motiv",
       "image": "assets/gallery/landscapes/2332.jpg",
       "thumb": "assets/gallery/landscapes/2332-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2333,
@@ -391,7 +428,8 @@
       "sv": "Träd mot en färgglad himmel",
       "image": "assets/gallery/nature/2333.jpg",
       "thumb": "assets/gallery/nature/2333-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2334,
@@ -400,7 +438,8 @@
       "sv": "Tre figurer",
       "image": "assets/gallery/characters/2334.jpg",
       "thumb": "assets/gallery/characters/2334-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2335,
@@ -409,7 +448,8 @@
       "sv": "Fyra landskapsrutor",
       "image": "assets/gallery/landscapes/2335.jpg",
       "thumb": "assets/gallery/landscapes/2335-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2336,
@@ -418,7 +458,8 @@
       "sv": "Kärlek och hjärtan",
       "image": "assets/gallery/cards/2336.jpg",
       "thumb": "assets/gallery/cards/2336-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2337,
@@ -427,16 +468,18 @@
       "sv": "Solsken och en båt",
       "image": "assets/gallery/landscapes/2337.jpg",
       "thumb": "assets/gallery/landscapes/2337-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2338,
-      "category": "culture",
-      "en": "Colourful decorative scene",
-      "sv": "Färgglatt dekorativt motiv",
-      "image": "assets/gallery/culture/2338.jpg",
-      "thumb": "assets/gallery/culture/2338-thumb.webp",
-      "rotation": 180
+      "category": "nature",
+      "en": "Rainbow bridge and flowers",
+      "sv": "Regnbågsbro och blommor",
+      "image": "assets/gallery/nature/2338.jpg",
+      "thumb": "assets/gallery/nature/2338-thumb.webp",
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2339,
@@ -445,7 +488,8 @@
       "sv": "Porträtt med lockigt hår",
       "image": "assets/gallery/characters/2339.jpg",
       "thumb": "assets/gallery/characters/2339-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2340,
@@ -454,7 +498,8 @@
       "sv": "Sjöjungfru och glass",
       "image": "assets/gallery/characters/2340.jpg",
       "thumb": "assets/gallery/characters/2340-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2341,
@@ -463,7 +508,8 @@
       "sv": "Hjärtmönstrad raket",
       "image": "assets/gallery/design/2341.jpg",
       "thumb": "assets/gallery/design/2341-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2342,
@@ -472,7 +518,8 @@
       "sv": "Krönt figur och blommor",
       "image": "assets/gallery/characters/2342.jpg",
       "thumb": "assets/gallery/characters/2342-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2343,
@@ -481,7 +528,8 @@
       "sv": "Sjöjungfru med färgglada fjäll",
       "image": "assets/gallery/characters/2343.jpg",
       "thumb": "assets/gallery/characters/2343-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2344,
@@ -490,7 +538,8 @@
       "sv": "Hjärtan, stjärnor och regnbågsränder",
       "image": "assets/gallery/design/2344.jpg",
       "thumb": "assets/gallery/design/2344-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2345,
@@ -499,7 +548,8 @@
       "sv": "Luftballong",
       "image": "assets/gallery/landscapes/2345.jpg",
       "thumb": "assets/gallery/landscapes/2345-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2346,
@@ -508,7 +558,8 @@
       "sv": "Färgglad figurram",
       "image": "assets/gallery/characters/2346.jpg",
       "thumb": "assets/gallery/characters/2346-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2347,
@@ -517,7 +568,8 @@
       "sv": "Slott med rött tak",
       "image": "assets/gallery/landscapes/2347.jpg",
       "thumb": "assets/gallery/landscapes/2347-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2348,
@@ -526,7 +578,8 @@
       "sv": "Fruktkorg till mamma",
       "image": "assets/gallery/cards/2348.jpg",
       "thumb": "assets/gallery/cards/2348-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2349,
@@ -535,7 +588,8 @@
       "sv": "Raksha Bandhan-sida",
       "image": "assets/gallery/culture/2349.jpg",
       "thumb": "assets/gallery/culture/2349-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2350,
@@ -544,7 +598,8 @@
       "sv": "Tre figurporträtt",
       "image": "assets/gallery/characters/2350.jpg",
       "thumb": "assets/gallery/characters/2350-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2351,
@@ -553,7 +608,8 @@
       "sv": "Diwaliteckningar",
       "image": "assets/gallery/culture/2351.jpg",
       "thumb": "assets/gallery/culture/2351-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2352,
@@ -562,7 +618,8 @@
       "sv": "Solnedgångssilhuetter i former",
       "image": "assets/gallery/design/2352.jpg",
       "thumb": "assets/gallery/design/2352-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2353,
@@ -571,7 +628,8 @@
       "sv": "Bil i staden",
       "image": "assets/gallery/landscapes/2353.jpg",
       "thumb": "assets/gallery/landscapes/2353-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2354,
@@ -580,7 +638,8 @@
       "sv": "Teckning av figuren Rumi",
       "image": "assets/gallery/characters/2354.jpg",
       "thumb": "assets/gallery/characters/2354-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2355,
@@ -589,7 +648,8 @@
       "sv": "Blyertsporträtt",
       "image": "assets/gallery/sketches/2355.jpg",
       "thumb": "assets/gallery/sketches/2355-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2356,
@@ -598,16 +658,18 @@
       "sv": "Mors dags-kort i blyerts",
       "image": "assets/gallery/cards/2356.jpg",
       "thumb": "assets/gallery/cards/2356-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2357,
       "category": "sketches",
-      "en": "Character holding a flower",
-      "sv": "Figur som håller en blomma",
+      "en": "Playful cat sketch",
+      "sv": "Skiss av en lekfull katt",
       "image": "assets/gallery/sketches/2357.jpg",
       "thumb": "assets/gallery/sketches/2357-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2358,
@@ -616,7 +678,8 @@
       "sv": "Små figurstudier",
       "image": "assets/gallery/sketches/2358.jpg",
       "thumb": "assets/gallery/sketches/2358-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments (AI unavailable)"
     },
     {
       "id": 2359,
@@ -625,7 +688,8 @@
       "sv": "Långhårig figur",
       "image": "assets/gallery/sketches/2359.jpg",
       "thumb": "assets/gallery/sketches/2359-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2360,
@@ -634,7 +698,8 @@
       "sv": "Dog Man och figurskisser",
       "image": "assets/gallery/sketches/2360.jpg",
       "thumb": "assets/gallery/sketches/2360-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2361,
@@ -643,7 +708,8 @@
       "sv": "Samling av blyertsklotter",
       "image": "assets/gallery/sketches/2361.jpg",
       "thumb": "assets/gallery/sketches/2361-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2362,
@@ -652,7 +718,8 @@
       "sv": "Stig mot bergen",
       "image": "assets/gallery/landscapes/2362.jpg",
       "thumb": "assets/gallery/landscapes/2362-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2363,
@@ -661,7 +728,8 @@
       "sv": "Fjäril på en blomma",
       "image": "assets/gallery/nature/2363.jpg",
       "thumb": "assets/gallery/nature/2363-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2364,
@@ -670,7 +738,8 @@
       "sv": "Dansarsilhuett",
       "image": "assets/gallery/characters/2364.jpg",
       "thumb": "assets/gallery/characters/2364-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2365,
@@ -679,7 +748,8 @@
       "sv": "Rosa bil i staden",
       "image": "assets/gallery/landscapes/2365.jpg",
       "thumb": "assets/gallery/landscapes/2365-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2366,
@@ -688,7 +758,8 @@
       "sv": "Händer som formar ett hjärta",
       "image": "assets/gallery/cards/2366.jpg",
       "thumb": "assets/gallery/cards/2366-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2367,
@@ -697,16 +768,18 @@
       "sv": "Två personer under en regnbåge",
       "image": "assets/gallery/cards/2367.jpg",
       "thumb": "assets/gallery/cards/2367-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2368,
-      "category": "characters",
-      "en": "Three figures in colourful dresses",
-      "sv": "Tre figurer i färgglada klänningar",
-      "image": "assets/gallery/characters/2368.jpg",
-      "thumb": "assets/gallery/characters/2368-thumb.webp",
-      "rotation": 90
+      "category": "culture",
+      "en": "Dancing figures in a folk-art style",
+      "sv": "Dansande figurer i folkkonststil",
+      "image": "assets/gallery/culture/2368.jpg",
+      "thumb": "assets/gallery/culture/2368-thumb.webp",
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2369,
@@ -715,7 +788,8 @@
       "sv": "Flamingo",
       "image": "assets/gallery/nature/2369.jpg",
       "thumb": "assets/gallery/nature/2369-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2370,
@@ -724,7 +798,8 @@
       "sv": "Flicka i regnbågsfärger",
       "image": "assets/gallery/characters/2370.jpg",
       "thumb": "assets/gallery/characters/2370-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2371,
@@ -733,7 +808,8 @@
       "sv": "Färgglad uggla",
       "image": "assets/gallery/nature/2371.jpg",
       "thumb": "assets/gallery/nature/2371-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2372,
@@ -742,7 +818,8 @@
       "sv": "Klotterkompisar",
       "image": "assets/gallery/characters/2372.jpg",
       "thumb": "assets/gallery/characters/2372-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2373,
@@ -751,7 +828,8 @@
       "sv": "Nyckelpiga på en blå blomma",
       "image": "assets/gallery/nature/2373.jpg",
       "thumb": "assets/gallery/nature/2373-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2374,
@@ -760,7 +838,8 @@
       "sv": "Gunga i månsken",
       "image": "assets/gallery/landscapes/2374.jpg",
       "thumb": "assets/gallery/landscapes/2374-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2375,
@@ -769,7 +848,8 @@
       "sv": "Hus vid vattnet",
       "image": "assets/gallery/landscapes/2375.jpg",
       "thumb": "assets/gallery/landscapes/2375-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2376,
@@ -778,7 +858,8 @@
       "sv": "Färgglad väderkvarn",
       "image": "assets/gallery/landscapes/2376.jpg",
       "thumb": "assets/gallery/landscapes/2376-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2377,
@@ -787,7 +868,8 @@
       "sv": "Glass och färgglada former",
       "image": "assets/gallery/design/2377.jpg",
       "thumb": "assets/gallery/design/2377-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2378,
@@ -796,7 +878,8 @@
       "sv": "Rött flygplan",
       "image": "assets/gallery/landscapes/2378.jpg",
       "thumb": "assets/gallery/landscapes/2378-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2379,
@@ -805,7 +888,8 @@
       "sv": "Orange segel på vattnet",
       "image": "assets/gallery/landscapes/2379.jpg",
       "thumb": "assets/gallery/landscapes/2379-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2380,
@@ -814,7 +898,8 @@
       "sv": "Flicka på en stadsgata",
       "image": "assets/gallery/characters/2380.jpg",
       "thumb": "assets/gallery/characters/2380-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2381,
@@ -823,16 +908,18 @@
       "sv": "Trädgård och damm",
       "image": "assets/gallery/landscapes/2381.jpg",
       "thumb": "assets/gallery/landscapes/2381-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2382,
-      "category": "design",
-      "en": "Black-and-white curved pattern",
-      "sv": "Svartvitt böjt mönster",
-      "image": "assets/gallery/design/2382.jpg",
-      "thumb": "assets/gallery/design/2382-thumb.webp",
-      "rotation": 0
+      "category": "nature",
+      "en": "Snail with a patterned shell",
+      "sv": "Snigel med mönstrat skal",
+      "image": "assets/gallery/nature/2382.jpg",
+      "thumb": "assets/gallery/nature/2382-thumb.webp",
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2383,
@@ -841,7 +928,8 @@
       "sv": "Strand och sandslott",
       "image": "assets/gallery/landscapes/2383.jpg",
       "thumb": "assets/gallery/landscapes/2383-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2384,
@@ -850,7 +938,8 @@
       "sv": "Groda och fjärilar",
       "image": "assets/gallery/nature/2384.jpg",
       "thumb": "assets/gallery/nature/2384-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2385,
@@ -859,7 +948,8 @@
       "sv": "Hus med en färgglad stig",
       "image": "assets/gallery/landscapes/2385.jpg",
       "thumb": "assets/gallery/landscapes/2385-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2386,
@@ -868,7 +958,8 @@
       "sv": "Leende tiger",
       "image": "assets/gallery/nature/2386.jpg",
       "thumb": "assets/gallery/nature/2386-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2387,
@@ -877,7 +968,8 @@
       "sv": "Tre färgglada figurer",
       "image": "assets/gallery/characters/2387.jpg",
       "thumb": "assets/gallery/characters/2387-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2388,
@@ -886,16 +978,18 @@
       "sv": "Väg mot månen",
       "image": "assets/gallery/landscapes/2388.jpg",
       "thumb": "assets/gallery/landscapes/2388-thumb.webp",
-      "rotation": 270
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2389,
-      "category": "characters",
+      "category": "nature",
       "en": "Cats among leaves",
       "sv": "Katter bland blad",
-      "image": "assets/gallery/characters/2389.jpg",
-      "thumb": "assets/gallery/characters/2389-thumb.webp",
-      "rotation": 180
+      "image": "assets/gallery/nature/2389.jpg",
+      "thumb": "assets/gallery/nature/2389-thumb.webp",
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2390,
@@ -904,7 +998,8 @@
       "sv": "Solnedgång och en palm",
       "image": "assets/gallery/landscapes/2390.jpg",
       "thumb": "assets/gallery/landscapes/2390-thumb.webp",
-      "rotation": 90
+      "rotation": 270,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2391,
@@ -913,7 +1008,8 @@
       "sv": "Lekfulla paraplymotiv",
       "image": "assets/gallery/design/2391.jpg",
       "thumb": "assets/gallery/design/2391-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2392,
@@ -922,7 +1018,8 @@
       "sv": "Flod genom bergen",
       "image": "assets/gallery/landscapes/2392.jpg",
       "thumb": "assets/gallery/landscapes/2392-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2393,
@@ -931,16 +1028,18 @@
       "sv": "Träd mot en varm himmel",
       "image": "assets/gallery/landscapes/2393.jpg",
       "thumb": "assets/gallery/landscapes/2393-thumb.webp",
-      "rotation": 180
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2394,
-      "category": "nature",
-      "en": "Pink fish",
-      "sv": "Rosa fisk",
-      "image": "assets/gallery/nature/2394.jpg",
-      "thumb": "assets/gallery/nature/2394-thumb.webp",
-      "rotation": 0
+      "category": "culture",
+      "en": "Lord Ganesha",
+      "sv": "Guden Ganesha",
+      "image": "assets/gallery/culture/2394.jpg",
+      "thumb": "assets/gallery/culture/2394-thumb.webp",
+      "rotation": 0,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2395,
@@ -949,16 +1048,18 @@
       "sv": "Nattmotiv med en burk",
       "image": "assets/gallery/landscapes/2395.jpg",
       "thumb": "assets/gallery/landscapes/2395-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2396,
-      "category": "design",
-      "en": "Decorative lamp and rays",
-      "sv": "Dekorativ lampa och strålar",
-      "image": "assets/gallery/design/2396.jpg",
-      "thumb": "assets/gallery/design/2396-thumb.webp",
-      "rotation": 180
+      "category": "landscapes",
+      "en": "Sailboat at sunset",
+      "sv": "Segelbåt i solnedgång",
+      "image": "assets/gallery/landscapes/2396.jpg",
+      "thumb": "assets/gallery/landscapes/2396-thumb.webp",
+      "rotation": 180,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2397,
@@ -967,7 +1068,8 @@
       "sv": "Val under vatten",
       "image": "assets/gallery/nature/2397.jpg",
       "thumb": "assets/gallery/nature/2397-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2398,
@@ -976,7 +1078,8 @@
       "sv": "Krabba i solnedgång",
       "image": "assets/gallery/nature/2398.jpg",
       "thumb": "assets/gallery/nature/2398-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     },
     {
       "id": 2399,
@@ -985,7 +1088,8 @@
       "sv": "Flicka i blyerts",
       "image": "assets/gallery/sketches/2399.jpg",
       "thumb": "assets/gallery/sketches/2399-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2400,
@@ -994,7 +1098,8 @@
       "sv": "Djurkompisar i blyerts",
       "image": "assets/gallery/sketches/2400.jpg",
       "thumb": "assets/gallery/sketches/2400-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2401,
@@ -1003,7 +1108,8 @@
       "sv": "Skiss av ett svamphus",
       "image": "assets/gallery/sketches/2401.jpg",
       "thumb": "assets/gallery/sketches/2401-thumb.webp",
-      "rotation": 0
+      "rotation": 0,
+      "edit_method": "mild AI cleanup"
     },
     {
       "id": 2402,
@@ -1012,7 +1118,8 @@
       "sv": "Jainistisk kultur och religion",
       "image": "assets/gallery/culture/2402.jpg",
       "thumb": "assets/gallery/culture/2402-thumb.webp",
-      "rotation": 90
+      "rotation": 90,
+      "edit_method": "photo adjustments"
     }
   ]
 }

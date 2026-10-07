@@ -1,14 +1,36 @@
-AANYA ART GALLERY UPDATE
+AANYA’S GALLERY — FINAL UPDATE
 
-This is an update to your existing website, not a standalone website.
-1. Unzip this package.
-2. Upload its contents to the SAME folder as index.html in your existing GitHub repository.
-3. Replace matching website files and merge the assets folder, preserving existing assets.
-4. Keep your existing comics, knowledge images, styles.css, language.css, app.js, content.json and PDF.
-5. Open gallery.html through your website after the GitHub Pages update completes.
-Do not upload the ZIP itself.
+This is an update for your existing GitHub Pages website. It is not a complete standalone website and has not been deployed to GitHub.
 
-All 107 artworks are retained and grouped into seven sections, with proposed English and Swedish titles and descriptions. The photographs are rotated and gently brightened with a small contrast adjustment. There is no generative redrawing, cropping or perspective correction. Originals remain in your original photo archives.
+WHAT IS INCLUDED
+107 pictures (2296–2402), organised into seven sections, plus English and Swedish titles and descriptions. Full pictures and small thumbnails are included. Eleven pencil sketches use the gentle AI cleanup you approved. Picture 2358 uses conventional photo adjustments. AI cleanup can subtly affect small details; original source photographs should be kept separately.
 
-The page loads 18 previews initially, with a load-more button; larger images load only when opened.
-Gallery-Catalogue.csv lists all artwork IDs, titles, groups and rotations.
+UPLOAD USING GITHUB IN YOUR BROWSER
+1. Unzip this download on your computer. Do not upload the ZIP itself.
+2. In your repository, open assets, then gallery. If gallery does not exist, create assets/gallery/README.md first so the folder exists.
+3. Choose Add file > Upload files. Drag ONE section folder from this download’s assets/gallery into that location. Commit, then repeat for each of the seven folders:
+   culture: 10 files
+   landscapes: 60 files
+   nature: 40 files
+   characters: 54 files
+   design: 12 files
+   cards: 14 files
+   sketches: 24 files
+Each section stays below the 100-file browser upload limit. Upload both JPG pictures and WebP thumbnails. Do not drag all seven folders together.
+4. Return to the repository root and upload/replace these nine files together:
+   index.html, knowledge.html, comics.html, about.html, gallery.html,
+   gallery.js, gallery.css, gallery-data.json, i18n.js.
+5. Keep existing styles.css, language.css, app.js and all existing book/comic assets. Merge the new assets/gallery content; do not delete or replace the entire assets folder.
+6. Wait for the Pages deployment to finish successfully, then open gallery.html on your site. Refresh if an old page is cached.
+
+The final structure must have gallery.html at the repository root and images at assets/gallery/<section>/<number>.jpg. Category folders placed beside assets at the repository root will not work. Old copies in previous category folders are not referenced by the new catalogue; leave them until the updated site is verified.
+
+IF YOU USE GIT LOCALLY
+Copy the update files into your existing checkout, merging folders. Review the changes, commit and push normally. Keep unrelated website files.
+
+CHECK AFTER DEPLOYMENT
+Open every section, switch English/Swedish, use search and Load more, and open a picture to check the large view and next/previous buttons. The gallery starts with 18 thumbnails and loads full pictures when opened, reducing initial download size. These measures do not replace checking the actual deployed site.
+
+Gallery-Catalogue.csv is for your reference and does not need to be uploaded. Keep this guide on your computer.
+
+Corrections include Lord Ganesha in Culture & traditions; the rainbow bridge and cats/leaves in Nature & animals; the sailboat in Places & landscapes; the snail in Nature & animals; and the previously upside-down sunset picture corrected.
