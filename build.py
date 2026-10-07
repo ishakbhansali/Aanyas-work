@@ -1,4 +1,4 @@
-"""Rebuild the stable Swedish PDF and package all four website pages."""
+"""Rebuild the stable Swedish PDF and package all five website pages."""
 from pathlib import Path
 import json,zipfile,argparse
 from generate_pdf import build_pdf
@@ -10,7 +10,7 @@ def main():
  args=parser.parse_args()
  topics=json.loads((ROOT/'content.json').read_text())
  assert len({t['id'] for t in topics})==len(topics),'Topic IDs must be unique'
- for name in ('index.html','knowledge.html','comics.html','about.html','i18n.js','app.js','styles.css','language.css'):
+ for name in ('index.html','knowledge.html','comics.html','about.html','gallery.html','gallery.js','gallery.css','gallery-data.json','i18n.js','app.js','styles.css','language.css'):
   assert (ROOT/name).is_file(),f'Missing {name}'
  for t in topics:
   assert t.get('en'),f'Missing English translation for {t["id"]}'
@@ -23,6 +23,6 @@ def main():
  with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
   for path in sorted(ROOT.rglob('*')):
    if path.is_file() and '__pycache__' not in path.parts:z.write(path,path.relative_to(ROOT).as_posix())
- print('Built:',archive,'with four website pages and',len(topics),'shared knowledge topics')
+ print('Built:',archive,'with five website pages and',len(topics),'shared knowledge topics')
  print('Preview locally: python -m http.server 8000, then open http://localhost:8000')
 if __name__=='__main__':main()

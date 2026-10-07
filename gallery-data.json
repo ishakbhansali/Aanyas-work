@@ -1,0 +1,1018 @@
+{
+  "categories": [
+    {
+      "id": "culture",
+      "en": "Culture & traditions",
+      "sv": "Kultur och traditioner",
+      "description_en": "Colourful celebrations, cultural motifs and artwork inspired by Indian traditions, including a drawing about Jain culture and religion.",
+      "description_sv": "Färgstarka firanden, kulturella motiv och bilder inspirerade av indiska traditioner, inklusive en teckning om jainistisk kultur och religion."
+    },
+    {
+      "id": "landscapes",
+      "en": "Places & landscapes",
+      "sv": "Platser och landskap",
+      "description_en": "Little journeys through mountains, rivers, seaside scenes, city streets and imagined places.",
+      "description_sv": "Små resor genom berg, floder, havsmiljöer, stadsgator och fantasiplatser."
+    },
+    {
+      "id": "nature",
+      "en": "Nature & animals",
+      "sv": "Natur och djur",
+      "description_en": "Flowers, leaves, birds and animals, explored through pencil lines and colourful shapes.",
+      "description_sv": "Blommor, blad, fåglar och djur, utforskade med blyertsstreck och färgglada former."
+    },
+    {
+      "id": "characters",
+      "en": "Characters & imagination",
+      "sv": "Figurer och fantasi",
+      "description_en": "Mermaids, princesses, expressive faces and playful characters from a world of imagination.",
+      "description_sv": "Sjöjungfrur, prinsessor, uttrycksfulla ansikten och lekfulla figurer från fantasins värld."
+    },
+    {
+      "id": "design",
+      "en": "Patterns & colourful designs",
+      "sv": "Mönster och färgglad design",
+      "description_en": "Hearts, rainbows, decorative shapes and experiments with colour, pattern and composition.",
+      "description_sv": "Hjärtan, regnbågar, dekorativa former och experiment med färg, mönster och komposition."
+    },
+    {
+      "id": "cards",
+      "en": "Love, family & little moments",
+      "sv": "Kärlek, familj och små stunder",
+      "description_en": "Cards, affectionate messages and drawings of people and everyday moments.",
+      "description_sv": "Kort, kärleksfulla hälsningar och teckningar av människor och vardagliga stunder."
+    },
+    {
+      "id": "sketches",
+      "en": "Sketches & doodles",
+      "sv": "Skisser och klotter",
+      "description_en": "Pencil studies, character experiments and quick ideas, including unfinished drawings worth keeping.",
+      "description_sv": "Blyertsskisser, experiment med figurer och snabba idéer, även ofärdiga teckningar som är värda att spara."
+    }
+  ],
+  "items": [
+    {
+      "id": 2296,
+      "category": "nature",
+      "en": "Rainbow and flowers",
+      "sv": "Regnbåge och blommor",
+      "image": "assets/gallery/nature/2296.jpg",
+      "thumb": "assets/gallery/nature/2296-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2297,
+      "category": "nature",
+      "en": "Underwater counting scene",
+      "sv": "Räknemotiv under vatten",
+      "image": "assets/gallery/nature/2297.jpg",
+      "thumb": "assets/gallery/nature/2297-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2298,
+      "category": "characters",
+      "en": "Ice cream friends",
+      "sv": "Glasskompisar",
+      "image": "assets/gallery/characters/2298.jpg",
+      "thumb": "assets/gallery/characters/2298-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2299,
+      "category": "characters",
+      "en": "A girl among trees",
+      "sv": "En flicka bland träd",
+      "image": "assets/gallery/characters/2299.jpg",
+      "thumb": "assets/gallery/characters/2299-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2300,
+      "category": "landscapes",
+      "en": "Two seaside views",
+      "sv": "Två havsvyer",
+      "image": "assets/gallery/landscapes/2300.jpg",
+      "thumb": "assets/gallery/landscapes/2300-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2301,
+      "category": "characters",
+      "en": "Mermaid sketch in colour",
+      "sv": "Sjöjungfruskiss i färg",
+      "image": "assets/gallery/characters/2301.jpg",
+      "thumb": "assets/gallery/characters/2301-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2302,
+      "category": "characters",
+      "en": "Rainbow ice cream",
+      "sv": "Regnbågsglass",
+      "image": "assets/gallery/characters/2302.jpg",
+      "thumb": "assets/gallery/characters/2302-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2303,
+      "category": "characters",
+      "en": "Characters in a blue frame",
+      "sv": "Figurer i en blå ram",
+      "image": "assets/gallery/characters/2303.jpg",
+      "thumb": "assets/gallery/characters/2303-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2304,
+      "category": "landscapes",
+      "en": "Pink castle",
+      "sv": "Rosa slott",
+      "image": "assets/gallery/landscapes/2304.jpg",
+      "thumb": "assets/gallery/landscapes/2304-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2305,
+      "category": "nature",
+      "en": "Sunflower",
+      "sv": "Solros",
+      "image": "assets/gallery/nature/2305.jpg",
+      "thumb": "assets/gallery/nature/2305-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2306,
+      "category": "characters",
+      "en": "Spotted outfit",
+      "sv": "Prickig klädsel",
+      "image": "assets/gallery/characters/2306.jpg",
+      "thumb": "assets/gallery/characters/2306-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2307,
+      "category": "characters",
+      "en": "Princess and a winged friend",
+      "sv": "Prinsessa och en bevingad vän",
+      "image": "assets/gallery/characters/2307.jpg",
+      "thumb": "assets/gallery/characters/2307-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2308,
+      "category": "characters",
+      "en": "Rainbow dress",
+      "sv": "Regnbågsklänning",
+      "image": "assets/gallery/characters/2308.jpg",
+      "thumb": "assets/gallery/characters/2308-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2309,
+      "category": "nature",
+      "en": "Tall grass and a flower",
+      "sv": "Högt gräs och en blomma",
+      "image": "assets/gallery/nature/2309.jpg",
+      "thumb": "assets/gallery/nature/2309-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2310,
+      "category": "characters",
+      "en": "Unicorn doughnut",
+      "sv": "Enhörningsmunk",
+      "image": "assets/gallery/characters/2310.jpg",
+      "thumb": "assets/gallery/characters/2310-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2311,
+      "category": "landscapes",
+      "en": "House by the water",
+      "sv": "Hus vid vattnet",
+      "image": "assets/gallery/landscapes/2311.jpg",
+      "thumb": "assets/gallery/landscapes/2311-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2312,
+      "category": "nature",
+      "en": "Flowers in a patterned vase",
+      "sv": "Blommor i en mönstrad vas",
+      "image": "assets/gallery/nature/2312.jpg",
+      "thumb": "assets/gallery/nature/2312-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2313,
+      "category": "landscapes",
+      "en": "Swimming pool",
+      "sv": "Simbassäng",
+      "image": "assets/gallery/landscapes/2313.jpg",
+      "thumb": "assets/gallery/landscapes/2313-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2314,
+      "category": "cards",
+      "en": "A message for Mum",
+      "sv": "En hälsning till mamma",
+      "image": "assets/gallery/cards/2314.jpg",
+      "thumb": "assets/gallery/cards/2314-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2315,
+      "category": "sketches",
+      "en": "Amsterdam bicycle",
+      "sv": "Amsterdamcykel",
+      "image": "assets/gallery/sketches/2315.jpg",
+      "thumb": "assets/gallery/sketches/2315-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2316,
+      "category": "landscapes",
+      "en": "Colourful street",
+      "sv": "Färgglad gata",
+      "image": "assets/gallery/landscapes/2316.jpg",
+      "thumb": "assets/gallery/landscapes/2316-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2317,
+      "category": "characters",
+      "en": "Pink-haired character",
+      "sv": "Figur med rosa hår",
+      "image": "assets/gallery/characters/2317.jpg",
+      "thumb": "assets/gallery/characters/2317-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2318,
+      "category": "nature",
+      "en": "Colourful flowers",
+      "sv": "Färgglada blommor",
+      "image": "assets/gallery/nature/2318.jpg",
+      "thumb": "assets/gallery/nature/2318-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2319,
+      "category": "landscapes",
+      "en": "Streetlights at sunset",
+      "sv": "Gatlyktor i solnedgång",
+      "image": "assets/gallery/landscapes/2319.jpg",
+      "thumb": "assets/gallery/landscapes/2319-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2320,
+      "category": "characters",
+      "en": "Watermelon cat",
+      "sv": "Vattenmelonkatten",
+      "image": "assets/gallery/characters/2320.jpg",
+      "thumb": "assets/gallery/characters/2320-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2321,
+      "category": "sketches",
+      "en": "Fairground pencil scene",
+      "sv": "Tivolimotiv i blyerts",
+      "image": "assets/gallery/sketches/2321.jpg",
+      "thumb": "assets/gallery/sketches/2321-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2322,
+      "category": "nature",
+      "en": "Flowers and a yellow vase",
+      "sv": "Blommor och en gul vas",
+      "image": "assets/gallery/nature/2322.jpg",
+      "thumb": "assets/gallery/nature/2322-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2323,
+      "category": "characters",
+      "en": "Portrait in colour",
+      "sv": "Porträtt i färg",
+      "image": "assets/gallery/characters/2323.jpg",
+      "thumb": "assets/gallery/characters/2323-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2324,
+      "category": "landscapes",
+      "en": "Space scene",
+      "sv": "Rymdmotiv",
+      "image": "assets/gallery/landscapes/2324.jpg",
+      "thumb": "assets/gallery/landscapes/2324-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2325,
+      "category": "characters",
+      "en": "Character in a colourful dress",
+      "sv": "Figur i en färgglad klänning",
+      "image": "assets/gallery/characters/2325.jpg",
+      "thumb": "assets/gallery/characters/2325-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2326,
+      "category": "sketches",
+      "en": "Girl in a heart-patterned dress",
+      "sv": "Flicka i en hjärtmönstrad klänning",
+      "image": "assets/gallery/sketches/2326.jpg",
+      "thumb": "assets/gallery/sketches/2326-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2327,
+      "category": "characters",
+      "en": "Strawberry character",
+      "sv": "Jordgubbsfigur",
+      "image": "assets/gallery/characters/2327.jpg",
+      "thumb": "assets/gallery/characters/2327-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2328,
+      "category": "nature",
+      "en": "Rainbow garden",
+      "sv": "Regnbågsträdgård",
+      "image": "assets/gallery/nature/2328.jpg",
+      "thumb": "assets/gallery/nature/2328-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2329,
+      "category": "landscapes",
+      "en": "Sailing boat",
+      "sv": "Segelbåt",
+      "image": "assets/gallery/landscapes/2329.jpg",
+      "thumb": "assets/gallery/landscapes/2329-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2330,
+      "category": "design",
+      "en": "Colourful butterfly design",
+      "sv": "Färgglad fjärilsdesign",
+      "image": "assets/gallery/design/2330.jpg",
+      "thumb": "assets/gallery/design/2330-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2331,
+      "category": "cards",
+      "en": "Sunshine for Mum",
+      "sv": "Solsken till mamma",
+      "image": "assets/gallery/cards/2331.jpg",
+      "thumb": "assets/gallery/cards/2331-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2332,
+      "category": "landscapes",
+      "en": "Four colourful scenes",
+      "sv": "Fyra färgglada motiv",
+      "image": "assets/gallery/landscapes/2332.jpg",
+      "thumb": "assets/gallery/landscapes/2332-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2333,
+      "category": "nature",
+      "en": "Tree against a colourful sky",
+      "sv": "Träd mot en färgglad himmel",
+      "image": "assets/gallery/nature/2333.jpg",
+      "thumb": "assets/gallery/nature/2333-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2334,
+      "category": "characters",
+      "en": "Three characters",
+      "sv": "Tre figurer",
+      "image": "assets/gallery/characters/2334.jpg",
+      "thumb": "assets/gallery/characters/2334-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2335,
+      "category": "landscapes",
+      "en": "Four landscape panels",
+      "sv": "Fyra landskapsrutor",
+      "image": "assets/gallery/landscapes/2335.jpg",
+      "thumb": "assets/gallery/landscapes/2335-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2336,
+      "category": "cards",
+      "en": "Love and hearts",
+      "sv": "Kärlek och hjärtan",
+      "image": "assets/gallery/cards/2336.jpg",
+      "thumb": "assets/gallery/cards/2336-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2337,
+      "category": "landscapes",
+      "en": "Sunshine and a boat",
+      "sv": "Solsken och en båt",
+      "image": "assets/gallery/landscapes/2337.jpg",
+      "thumb": "assets/gallery/landscapes/2337-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2338,
+      "category": "culture",
+      "en": "Colourful decorative scene",
+      "sv": "Färgglatt dekorativt motiv",
+      "image": "assets/gallery/culture/2338.jpg",
+      "thumb": "assets/gallery/culture/2338-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2339,
+      "category": "characters",
+      "en": "Curly-haired portrait",
+      "sv": "Porträtt med lockigt hår",
+      "image": "assets/gallery/characters/2339.jpg",
+      "thumb": "assets/gallery/characters/2339-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2340,
+      "category": "characters",
+      "en": "Mermaid and ice cream",
+      "sv": "Sjöjungfru och glass",
+      "image": "assets/gallery/characters/2340.jpg",
+      "thumb": "assets/gallery/characters/2340-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2341,
+      "category": "design",
+      "en": "Heart-patterned rocket",
+      "sv": "Hjärtmönstrad raket",
+      "image": "assets/gallery/design/2341.jpg",
+      "thumb": "assets/gallery/design/2341-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2342,
+      "category": "characters",
+      "en": "Crowned character and flowers",
+      "sv": "Krönt figur och blommor",
+      "image": "assets/gallery/characters/2342.jpg",
+      "thumb": "assets/gallery/characters/2342-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2343,
+      "category": "characters",
+      "en": "Mermaid with colourful scales",
+      "sv": "Sjöjungfru med färgglada fjäll",
+      "image": "assets/gallery/characters/2343.jpg",
+      "thumb": "assets/gallery/characters/2343-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2344,
+      "category": "design",
+      "en": "Hearts, stars and rainbow stripes",
+      "sv": "Hjärtan, stjärnor och regnbågsränder",
+      "image": "assets/gallery/design/2344.jpg",
+      "thumb": "assets/gallery/design/2344-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2345,
+      "category": "landscapes",
+      "en": "Hot-air balloon",
+      "sv": "Luftballong",
+      "image": "assets/gallery/landscapes/2345.jpg",
+      "thumb": "assets/gallery/landscapes/2345-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2346,
+      "category": "characters",
+      "en": "Colourful character frame",
+      "sv": "Färgglad figurram",
+      "image": "assets/gallery/characters/2346.jpg",
+      "thumb": "assets/gallery/characters/2346-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2347,
+      "category": "landscapes",
+      "en": "Castle with a red roof",
+      "sv": "Slott med rött tak",
+      "image": "assets/gallery/landscapes/2347.jpg",
+      "thumb": "assets/gallery/landscapes/2347-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2348,
+      "category": "cards",
+      "en": "Fruit basket for Mum",
+      "sv": "Fruktkorg till mamma",
+      "image": "assets/gallery/cards/2348.jpg",
+      "thumb": "assets/gallery/cards/2348-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2349,
+      "category": "culture",
+      "en": "Raksha Bandhan page",
+      "sv": "Raksha Bandhan-sida",
+      "image": "assets/gallery/culture/2349.jpg",
+      "thumb": "assets/gallery/culture/2349-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2350,
+      "category": "characters",
+      "en": "Three character portraits",
+      "sv": "Tre figurporträtt",
+      "image": "assets/gallery/characters/2350.jpg",
+      "thumb": "assets/gallery/characters/2350-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2351,
+      "category": "culture",
+      "en": "Diwali drawings",
+      "sv": "Diwaliteckningar",
+      "image": "assets/gallery/culture/2351.jpg",
+      "thumb": "assets/gallery/culture/2351-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2352,
+      "category": "design",
+      "en": "Sunset silhouettes in shapes",
+      "sv": "Solnedgångssilhuetter i former",
+      "image": "assets/gallery/design/2352.jpg",
+      "thumb": "assets/gallery/design/2352-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2353,
+      "category": "landscapes",
+      "en": "Car in the city",
+      "sv": "Bil i staden",
+      "image": "assets/gallery/landscapes/2353.jpg",
+      "thumb": "assets/gallery/landscapes/2353-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2354,
+      "category": "characters",
+      "en": "Rumi character drawing",
+      "sv": "Teckning av figuren Rumi",
+      "image": "assets/gallery/characters/2354.jpg",
+      "thumb": "assets/gallery/characters/2354-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2355,
+      "category": "sketches",
+      "en": "Pencil portrait",
+      "sv": "Blyertsporträtt",
+      "image": "assets/gallery/sketches/2355.jpg",
+      "thumb": "assets/gallery/sketches/2355-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2356,
+      "category": "cards",
+      "en": "Mother’s Day pencil card",
+      "sv": "Mors dags-kort i blyerts",
+      "image": "assets/gallery/cards/2356.jpg",
+      "thumb": "assets/gallery/cards/2356-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2357,
+      "category": "sketches",
+      "en": "Character holding a flower",
+      "sv": "Figur som håller en blomma",
+      "image": "assets/gallery/sketches/2357.jpg",
+      "thumb": "assets/gallery/sketches/2357-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2358,
+      "category": "sketches",
+      "en": "Small character studies",
+      "sv": "Små figurstudier",
+      "image": "assets/gallery/sketches/2358.jpg",
+      "thumb": "assets/gallery/sketches/2358-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2359,
+      "category": "sketches",
+      "en": "Long-haired character",
+      "sv": "Långhårig figur",
+      "image": "assets/gallery/sketches/2359.jpg",
+      "thumb": "assets/gallery/sketches/2359-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2360,
+      "category": "sketches",
+      "en": "Dog Man and character sketches",
+      "sv": "Dog Man och figurskisser",
+      "image": "assets/gallery/sketches/2360.jpg",
+      "thumb": "assets/gallery/sketches/2360-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2361,
+      "category": "sketches",
+      "en": "Pencil doodle collection",
+      "sv": "Samling av blyertsklotter",
+      "image": "assets/gallery/sketches/2361.jpg",
+      "thumb": "assets/gallery/sketches/2361-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2362,
+      "category": "landscapes",
+      "en": "Path towards the mountains",
+      "sv": "Stig mot bergen",
+      "image": "assets/gallery/landscapes/2362.jpg",
+      "thumb": "assets/gallery/landscapes/2362-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2363,
+      "category": "nature",
+      "en": "Butterfly on a flower",
+      "sv": "Fjäril på en blomma",
+      "image": "assets/gallery/nature/2363.jpg",
+      "thumb": "assets/gallery/nature/2363-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2364,
+      "category": "characters",
+      "en": "Dancer silhouette",
+      "sv": "Dansarsilhuett",
+      "image": "assets/gallery/characters/2364.jpg",
+      "thumb": "assets/gallery/characters/2364-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2365,
+      "category": "landscapes",
+      "en": "Pink car in the city",
+      "sv": "Rosa bil i staden",
+      "image": "assets/gallery/landscapes/2365.jpg",
+      "thumb": "assets/gallery/landscapes/2365-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2366,
+      "category": "cards",
+      "en": "Hands making a heart",
+      "sv": "Händer som formar ett hjärta",
+      "image": "assets/gallery/cards/2366.jpg",
+      "thumb": "assets/gallery/cards/2366-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2367,
+      "category": "cards",
+      "en": "Two people under a rainbow",
+      "sv": "Två personer under en regnbåge",
+      "image": "assets/gallery/cards/2367.jpg",
+      "thumb": "assets/gallery/cards/2367-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2368,
+      "category": "characters",
+      "en": "Three figures in colourful dresses",
+      "sv": "Tre figurer i färgglada klänningar",
+      "image": "assets/gallery/characters/2368.jpg",
+      "thumb": "assets/gallery/characters/2368-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2369,
+      "category": "nature",
+      "en": "Flamingo",
+      "sv": "Flamingo",
+      "image": "assets/gallery/nature/2369.jpg",
+      "thumb": "assets/gallery/nature/2369-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2370,
+      "category": "characters",
+      "en": "Girl in rainbow colours",
+      "sv": "Flicka i regnbågsfärger",
+      "image": "assets/gallery/characters/2370.jpg",
+      "thumb": "assets/gallery/characters/2370-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2371,
+      "category": "nature",
+      "en": "Colourful owl",
+      "sv": "Färgglad uggla",
+      "image": "assets/gallery/nature/2371.jpg",
+      "thumb": "assets/gallery/nature/2371-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2372,
+      "category": "characters",
+      "en": "Doodle friends",
+      "sv": "Klotterkompisar",
+      "image": "assets/gallery/characters/2372.jpg",
+      "thumb": "assets/gallery/characters/2372-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2373,
+      "category": "nature",
+      "en": "Ladybird on a blue flower",
+      "sv": "Nyckelpiga på en blå blomma",
+      "image": "assets/gallery/nature/2373.jpg",
+      "thumb": "assets/gallery/nature/2373-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2374,
+      "category": "landscapes",
+      "en": "Moonlit swing",
+      "sv": "Gunga i månsken",
+      "image": "assets/gallery/landscapes/2374.jpg",
+      "thumb": "assets/gallery/landscapes/2374-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2375,
+      "category": "landscapes",
+      "en": "Houses beside the water",
+      "sv": "Hus vid vattnet",
+      "image": "assets/gallery/landscapes/2375.jpg",
+      "thumb": "assets/gallery/landscapes/2375-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2376,
+      "category": "landscapes",
+      "en": "Colourful windmill",
+      "sv": "Färgglad väderkvarn",
+      "image": "assets/gallery/landscapes/2376.jpg",
+      "thumb": "assets/gallery/landscapes/2376-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2377,
+      "category": "design",
+      "en": "Ice cream and colourful shapes",
+      "sv": "Glass och färgglada former",
+      "image": "assets/gallery/design/2377.jpg",
+      "thumb": "assets/gallery/design/2377-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2378,
+      "category": "landscapes",
+      "en": "Red aircraft",
+      "sv": "Rött flygplan",
+      "image": "assets/gallery/landscapes/2378.jpg",
+      "thumb": "assets/gallery/landscapes/2378-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2379,
+      "category": "landscapes",
+      "en": "Orange sail on the water",
+      "sv": "Orange segel på vattnet",
+      "image": "assets/gallery/landscapes/2379.jpg",
+      "thumb": "assets/gallery/landscapes/2379-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2380,
+      "category": "characters",
+      "en": "Girl on a city street",
+      "sv": "Flicka på en stadsgata",
+      "image": "assets/gallery/characters/2380.jpg",
+      "thumb": "assets/gallery/characters/2380-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2381,
+      "category": "landscapes",
+      "en": "Garden and pond",
+      "sv": "Trädgård och damm",
+      "image": "assets/gallery/landscapes/2381.jpg",
+      "thumb": "assets/gallery/landscapes/2381-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2382,
+      "category": "design",
+      "en": "Black-and-white curved pattern",
+      "sv": "Svartvitt böjt mönster",
+      "image": "assets/gallery/design/2382.jpg",
+      "thumb": "assets/gallery/design/2382-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2383,
+      "category": "landscapes",
+      "en": "Beach and sandcastle",
+      "sv": "Strand och sandslott",
+      "image": "assets/gallery/landscapes/2383.jpg",
+      "thumb": "assets/gallery/landscapes/2383-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2384,
+      "category": "nature",
+      "en": "Frog and butterflies",
+      "sv": "Groda och fjärilar",
+      "image": "assets/gallery/nature/2384.jpg",
+      "thumb": "assets/gallery/nature/2384-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2385,
+      "category": "landscapes",
+      "en": "House with a colourful path",
+      "sv": "Hus med en färgglad stig",
+      "image": "assets/gallery/landscapes/2385.jpg",
+      "thumb": "assets/gallery/landscapes/2385-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2386,
+      "category": "nature",
+      "en": "Smiling tiger",
+      "sv": "Leende tiger",
+      "image": "assets/gallery/nature/2386.jpg",
+      "thumb": "assets/gallery/nature/2386-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2387,
+      "category": "characters",
+      "en": "Three colourful figures",
+      "sv": "Tre färgglada figurer",
+      "image": "assets/gallery/characters/2387.jpg",
+      "thumb": "assets/gallery/characters/2387-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2388,
+      "category": "landscapes",
+      "en": "Road towards the moon",
+      "sv": "Väg mot månen",
+      "image": "assets/gallery/landscapes/2388.jpg",
+      "thumb": "assets/gallery/landscapes/2388-thumb.webp",
+      "rotation": 270
+    },
+    {
+      "id": 2389,
+      "category": "characters",
+      "en": "Cats among leaves",
+      "sv": "Katter bland blad",
+      "image": "assets/gallery/characters/2389.jpg",
+      "thumb": "assets/gallery/characters/2389-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2390,
+      "category": "landscapes",
+      "en": "Sunset and a palm tree",
+      "sv": "Solnedgång och en palm",
+      "image": "assets/gallery/landscapes/2390.jpg",
+      "thumb": "assets/gallery/landscapes/2390-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2391,
+      "category": "design",
+      "en": "Playful umbrella designs",
+      "sv": "Lekfulla paraplymotiv",
+      "image": "assets/gallery/design/2391.jpg",
+      "thumb": "assets/gallery/design/2391-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2392,
+      "category": "landscapes",
+      "en": "River through the mountains",
+      "sv": "Flod genom bergen",
+      "image": "assets/gallery/landscapes/2392.jpg",
+      "thumb": "assets/gallery/landscapes/2392-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2393,
+      "category": "landscapes",
+      "en": "Trees against a warm sky",
+      "sv": "Träd mot en varm himmel",
+      "image": "assets/gallery/landscapes/2393.jpg",
+      "thumb": "assets/gallery/landscapes/2393-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2394,
+      "category": "nature",
+      "en": "Pink fish",
+      "sv": "Rosa fisk",
+      "image": "assets/gallery/nature/2394.jpg",
+      "thumb": "assets/gallery/nature/2394-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2395,
+      "category": "landscapes",
+      "en": "Night scene with a jar",
+      "sv": "Nattmotiv med en burk",
+      "image": "assets/gallery/landscapes/2395.jpg",
+      "thumb": "assets/gallery/landscapes/2395-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2396,
+      "category": "design",
+      "en": "Decorative lamp and rays",
+      "sv": "Dekorativ lampa och strålar",
+      "image": "assets/gallery/design/2396.jpg",
+      "thumb": "assets/gallery/design/2396-thumb.webp",
+      "rotation": 180
+    },
+    {
+      "id": 2397,
+      "category": "nature",
+      "en": "Whale underwater",
+      "sv": "Val under vatten",
+      "image": "assets/gallery/nature/2397.jpg",
+      "thumb": "assets/gallery/nature/2397-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2398,
+      "category": "nature",
+      "en": "Crab at sunset",
+      "sv": "Krabba i solnedgång",
+      "image": "assets/gallery/nature/2398.jpg",
+      "thumb": "assets/gallery/nature/2398-thumb.webp",
+      "rotation": 90
+    },
+    {
+      "id": 2399,
+      "category": "sketches",
+      "en": "Girl in pencil",
+      "sv": "Flicka i blyerts",
+      "image": "assets/gallery/sketches/2399.jpg",
+      "thumb": "assets/gallery/sketches/2399-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2400,
+      "category": "sketches",
+      "en": "Animal friends in pencil",
+      "sv": "Djurkompisar i blyerts",
+      "image": "assets/gallery/sketches/2400.jpg",
+      "thumb": "assets/gallery/sketches/2400-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2401,
+      "category": "sketches",
+      "en": "Mushroom-house sketch",
+      "sv": "Skiss av ett svamphus",
+      "image": "assets/gallery/sketches/2401.jpg",
+      "thumb": "assets/gallery/sketches/2401-thumb.webp",
+      "rotation": 0
+    },
+    {
+      "id": 2402,
+      "category": "culture",
+      "en": "Jain culture and religion",
+      "sv": "Jainistisk kultur och religion",
+      "image": "assets/gallery/culture/2402.jpg",
+      "thumb": "assets/gallery/culture/2402-thumb.webp",
+      "rotation": 90
+    }
+  ]
+}

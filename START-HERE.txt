@@ -1,0 +1,14 @@
+AANYA ART GALLERY UPDATE
+
+This is an update to your existing website, not a standalone website.
+1. Unzip this package.
+2. Upload its contents to the SAME folder as index.html in your existing GitHub repository.
+3. Replace matching website files and merge the assets folder, preserving existing assets.
+4. Keep your existing comics, knowledge images, styles.css, language.css, app.js, content.json and PDF.
+5. Open gallery.html through your website after the GitHub Pages update completes.
+Do not upload the ZIP itself.
+
+All 107 artworks are retained and grouped into seven sections, with proposed English and Swedish titles and descriptions. The photographs are rotated and gently brightened with a small contrast adjustment. There is no generative redrawing, cropping or perspective correction. Originals remain in your original photo archives.
+
+The page loads 18 previews initially, with a load-more button; larger images load only when opened.
+Gallery-Catalogue.csv lists all artwork IDs, titles, groups and rotations.

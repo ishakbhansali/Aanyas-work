@@ -3,6 +3,11 @@
 'use strict';
 let lang='en';try{const saved=localStorage.getItem('aanya-language');if(saved==='sv')lang=saved;}catch{}
 const bindings=[
+['#world-navigation a[data-page="gallery"]','Art Gallery','Konstgalleri'],
+['.art-card small','Draw · Imagine · Create','Rita · Fantisera · Skapa'],
+['.art-card h3','Art Gallery','Konstgalleri'],
+['.art-card p','A collection of colourful places, characters, traditions, patterns and little pencil ideas.','En samling av färgglada platser, figurer, traditioner, mönster och små blyertsidéer.'],
+['.art-card b','Visit the gallery →','Besök galleriet →'],
 ['.brand',"Aanya's Little World ✧",'Aanyas lilla värld ✧'],
 ['#world-navigation a[data-page="home"]','Home','Start'],
 ['#world-navigation a[data-page="knowledge"]','Knowledge World','Kunskapsvärlden'],
@@ -156,7 +161,7 @@ for(const [code,label]of[['en','English'],['sv','Svenska']]){const b=document.cr
 document.querySelector('.brand').after(controls);
 chapters.forEach((chapter,i)=>{const picture=document.querySelector('#chapter-'+(i+1)+' .comic-image-wrap');if(!picture)return;const section=document.createElement('section');section.className='comic-translation';section.lang='sv';section.hidden=true;section.setAttribute('aria-label','Svensk översättning av kapitel '+(i+1));const h=document.createElement('h4');h.textContent='På svenska: '+chapter.sv;section.append(h);const tag=document.createElement('p');tag.className='translation-tag';tag.textContent=chapter.tag;section.append(tag);const list=document.createElement('ol');list.className='translation-panels';for(const [title,text]of chapter.panels){const row=document.createElement('li'),heading=document.createElement('h5'),p=document.createElement('p');heading.textContent=title;p.textContent=text;row.append(heading,p);list.append(row);}section.append(list);if(chapter.ending){const end=document.createElement('p');end.className='translation-ending';end.textContent=chapter.ending;section.append(end);}picture.after(section);});
 function setLanguage(next){lang=next==='sv'?'sv':'en';try{localStorage.setItem('aanya-language',lang);}catch{}apply();document.dispatchEvent(new CustomEvent('aanya-language-change',{detail:{lang}}));}
-function apply(){document.documentElement.lang=lang;const title={home:['Home','Start'],knowledge:['Knowledge World','Kunskapsvärlden'],comics:['Comics','Serier'],about:['About Aanya','Om Aanya']}[document.body.dataset.page||'home'];document.title=(lang==='sv'?'Aanyas lilla värld':'Aanya’s Little World')+' | '+title[lang==='sv'?1:0];
+function apply(){document.documentElement.lang=lang;const title={home:['Home','Start'],gallery:['Art Gallery','Konstgalleri'],knowledge:['Knowledge World','Kunskapsvärlden'],comics:['Comics','Serier'],about:['About Aanya','Om Aanya']}[document.body.dataset.page||'home'];document.title=(lang==='sv'?'Aanyas lilla värld':'Aanya’s Little World')+' | '+title[lang==='sv'?1:0];
 for(const [selector,en,sv]of bindings){const e=document.querySelector(selector);if(e)e.innerHTML=lang==='sv'?sv:en;}
 for(const b of controls.children){const yes=b.dataset.language===lang;b.setAttribute('aria-pressed',String(yes));b.classList.toggle('active',yes);}
 controls.setAttribute('aria-label',lang==='sv'?'Webbplatsens språk':'Website language');
